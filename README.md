@@ -1,2 +1,2 @@
-# maintenance-mode
-WP Maintenance mode
+# WP maintenance-mode
+Simple plugin to redirect traffic to /maintenance/ page 
